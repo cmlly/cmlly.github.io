@@ -490,7 +490,6 @@ blockquote {
   padding: 0 0.3rem 0 0;
   min-width: 1.6rem;
   color: #cfd8dc;
-  content: counter(line);
   counter-increment: line;
   text-align: left;
 }
